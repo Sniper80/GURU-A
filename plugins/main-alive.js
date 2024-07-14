@@ -1,7 +1,7 @@
 let handler = async (m, { conn, text, usedPrefix, command }) => {
   // Sound
   let name = m.pushName || conn.getName(m.sender)
-  var vn = 'https://cdn.jsdelivr.net/gh/Sniper80/SNIPER-BOT@main/Assets/mp3/Alive.mp3'
+  var vn = 'https://cdn.jsdelivr.net/gh/Sniper80/GURU-Ai@main/Assets/mp3/Alive.mp3'
   let url = 'https://egsniper.com'
   let murl = '#'
   let img = 'https://graph.org/file/04a403b1c0b3198fadf9c.jpg'
